@@ -1,0 +1,41 @@
+<section class="podcast bg-[#1A0B2E] flex items-center justify-center">
+        <div class="podcast-anythings ">
+
+            <div class="podcast-contant">
+                <h1 class="titel text-5xl  text-[#ffffff] font-bold">About the Podcast</h1>
+               <div class="all-pera mt-6">
+                <div class="rg-1 text-[16px] text-[#ffffffa1]">
+                 <p>TechWave is your go-to podcast for staying ahead in the fast-paced world of technology.</p>
+                <p>We break down complex topics into digestible insights, explore productivity strategies that actually work,</p>
+                <p>We break down complex topics into digestible insights, explore productivity strategies that actually work,</p>
+               </div>
+                <p class="rg-2 mt-8 text-[16px] text-[#ffffffa1]">Join thousands of young professionals and tech enthusiasts who start their day with TechWave. </p>
+            </div>
+               </div>
+
+               <div class="border-line"></div>
+
+            <div class="podcast-nmbar flex text-center place-content-between mt-40 ">
+               <div class="monthly  mr-4">
+                <h1 class=" peragra-01 text-5xl text-[#00FF88] font-black">150K+</h1>
+                <p class=" peragra-02 text-[16px] text-[#ffffff9c] mr-3">Monthly Listeners</p>
+                </div>
+
+                <div class="published mr-4">
+                    <h1 class="peragra-01 text-5xl text-[#00FF88] font-black">200+</h1>
+                    <p class="peragra-02 text-[16px] text-[#ffffff98]">Episodes Published</p>
+                </div>
+
+                <div class="ratings mr-4">
+                    <h1 class="peragra-01 text-5xl text-[#00FF88] font-black">4.9★</h1>
+                    <p class="peragra-02 text-[16px] text-[#ffffffa1]">Average Rating</p>
+                </div>
+                
+                <div class="Experts mr-4">
+                       <h1 class="peragra-01 text-5xl text-[#00FF88] font-black">50+</h1>
+                    <p class="peragra-02 text-[16px] text-[#ffffffa6]">Industry Experts</p>
+                </div>
+                
+            </div>
+        </div>
+     </section>
